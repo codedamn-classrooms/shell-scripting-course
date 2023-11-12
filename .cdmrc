@@ -1,0 +1,3 @@
+tabs: ["script.sh"]
+run-button: bash $$file
+terminals: ["bash script.sh"]
